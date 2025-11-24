@@ -1,4 +1,4 @@
-<p align="center"><img width=15% alt="FrontCover" src="images/ACE_v2_logo.png"></p>
+<p align="center"><img width=15% alt="FrontCover" src="images/ACE_v2_logo2.png"></p>
 
 # ACE-v2: Learning Anatomically Consistent Embeddings via Patch Matching with Composition and Decomposition
 
